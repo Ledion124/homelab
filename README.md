@@ -100,6 +100,8 @@ flowchart TB
 
 ## Roadmap
 
+Das Homelab wächst laufend. **Weitere Projekte kommen dazu**, und diese Liste wird regelmässig ergänzt.
+
 **Basis**
 - [x] Proxmox VE installieren und absichern (Updates, 2FA)
 - [x] Immich als Foto-Cloud
@@ -125,3 +127,8 @@ flowchart TB
 - [ ] Monitoring (z. B. Uptime Kuma), später SIEM (z. B. Wazuh)
 - [ ] Home Assistant + Zigbee: Türsensor, Smart Lights, Türmeldung
 - [ ] „Jarvis": eigener Sprachassistent mit Weckwort, nur über VPN erreichbar
+
+**Ideen für später**
+- [ ] Dashboard-Startseite mit allen Diensten (z. B. Homepage / Homarr)
+- [ ] Automatisierung des Setups als Code (z. B. Ansible)
+- [ ] … und was mir sonst noch einfällt 🚀

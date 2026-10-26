@@ -130,7 +130,8 @@ Das Homelab wächst laufend. **Weitere Projekte kommen dazu**, und diese Liste w
 
 **Ideen für später**
 - [ ] Dashboard-Startseite mit allen Diensten (z. B. Homepage / Homarr)
-- [ ] - [ ] Grafana-Dashboard mit Auslastung von CPU, RAM und Speicher
+- [ ] Grafana-Dashboard mit Auslastung von CPU, RAM und Speicher
+- [ ] Paperless-ngx: wichtige Dokumente einscannen und durchsuchbar machen
 - [ ] Automatisierung des Setups als Code (z. B. Ansible)
 - [ ] Uptime Kuma als Monitoring
 - [ ] … und was mir sonst noch einfällt 🚀
